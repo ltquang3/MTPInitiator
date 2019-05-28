@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <usb-accessory vendor-id="1133" product-id="2115" class="239" subclass="2" protocol="1"/>
+    <usb-accessory vendor-id="2830" product-id="1058" class="0" subclass="0" protocol="0"/>
+    <usb-accessory vendor-id="0x18D1" product-id="0x4ee2"/>
+    <usb-accessory vendor-id="0x2744" product-id="0x0424"/>
+    <usb-accessory vendor-id="0x2744" product-id="0x0424"/>
+    <usb-accessory manufacturer="Poly's Factory" model="Android Oepn Accessory Demo" version="1.0" />
+</resources>
